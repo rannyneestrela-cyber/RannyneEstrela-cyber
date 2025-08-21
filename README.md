@@ -7,25 +7,7 @@ Rannyne Estrela é uma desenvolvedora FullStack natural de Fortaleza (CE), com 1
 Apaixonada por inovação e desenvolvimento, Rannyne compartilha também seu conhecimento e experiências no Instagram, no perfil @rannynee
 , onde inspira outras pessoas a seguirem carreira na área tech.
 
-<!-- Badges YouTube e GitHub lado a lado da esquerda para direita -->
-<p align="left">
-  <!-- Inscreva-se no YouTube (vermelho) -->
-  <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
-    <img 
-      alt="Inscreva-se no YouTube" 
-      title="Inscreva-se no meu canal" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC603GYBwejqUDmCZ6bSGb2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=%23CE4630"
-    />
-  </a>
 
-  <!-- Visualizações do YouTube (amarelo) -->
-  <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
-    <img 
-      alt="Visualizações no YouTube" 
-      title="Visualizações no YouTube" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC603GYBwejqUDmCZ6bSGb2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=%23C79600&label=Visualiza%C3%A7%C3%B5es"
-    />
-  </a>
 
   <!-- Estrelas totais dos repositórios (verde) -->
   <a href="https://github.com/graziela-barros?tab=repositories">
