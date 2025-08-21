@@ -12,7 +12,7 @@ Apaixonada por inovação e desenvolvimento, Rannyne compartilha também seu con
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
