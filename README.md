@@ -1,10 +1,11 @@
-# 👩🏻‍💻 Graziela Barros
+# 👩‍💻 Rannyne Estrela 
 
 **Desenvolvedora FullStack**
 
-Meu nome é Rannyne Estrela, tenho 18 anos e sou natural de Fortaleza (CE). Sou formada como técnica em Informática e graduada em Análise e Desenvolvimento, com pós-graduação em Análise de Dados.
+Rannyne Estrela é uma desenvolvedora FullStack natural de Fortaleza (CE), com 18 anos, formada como técnica em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, ela vem se destacando na área por seu interesse constante em aprender e desenvolver soluções criativas.
 
-Sou apaixonada por tecnologia e educação. Compartilho meus conhecimentos em informática voltados para concursos públicos por meio do meu canal no YouTube "[Graziela Barros](https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros)" e também no Instagram, no perfil "[profgrazielabarros](https://www.instagram.com/profgrazielabarros/)", ajudando milhares de alunos a se prepararem de forma prática e objetiva.
+Apaixonada por inovação e desenvolvimento, Rannyne compartilha também seu conhecimento e experiências no Instagram, no perfil @rannynee
+, onde inspira outras pessoas a seguirem carreira na área tech.
 
 <!-- Badges YouTube e GitHub lado a lado da esquerda para direita -->
 <p align="left">
