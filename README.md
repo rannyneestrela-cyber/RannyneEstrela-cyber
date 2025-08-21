@@ -9,25 +9,6 @@ Apaixonada por inovação e desenvolvimento, Rannyne compartilha também seu con
 
 
 
-  <!-- Estrelas totais dos repositórios (verde) -->
-  <a href="https://github.com/graziela-barros?tab=repositories">
-    <img
-      alt="Total Stars no GitHub"
-      title="Total de estrelas nos repositórios"
-      src="https://img.shields.io/github/stars/graziela-barros?style=for-the-badge&color=2ea043&labelColor=2b6a30&logo=github&label=Estrelas"
-    />
-  </a>
-</p>
-
-<!-- GitHub Stats (opcional) -->
-<p align="left">
-  <img
-    alt="GitHub Stats"
-    title="Resumo do GitHub"
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=graziela-barros&show_icons=true&rank_icon=github&title_color=2ea043&icon_color=2ea043"
-  />
-</p>
 
 ---
 
