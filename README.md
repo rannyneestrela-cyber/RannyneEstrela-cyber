@@ -5,7 +5,7 @@
  Meu nome é Rannyne Estrela, natural de Fortaleza (CE), com 18 anos, formada como técnica em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, ela vem se destacando na área por seu interesse constante em aprender e desenvolver soluções criativas.
 
 Apaixonada por inovação e desenvolvimento, Rannyne compartilha também seu conhecimento e experiências no Instagram, no perfil @rannynee
-, onde inspira outras pessoas a seguirem carreira na área tech.
+
 
 
 
